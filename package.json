@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2"
   },
@@ -7,7 +8,6 @@
   "version": "1.0.0",
   "description": "A modern, responsive user authentication interface using **HTML, CSS (Glassmorphism style), JavaScript**, and **Axios** for backend API integration.",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
