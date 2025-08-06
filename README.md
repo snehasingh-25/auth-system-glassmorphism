@@ -2,7 +2,7 @@
 
 A modern, responsive user authentication interface using **HTML, CSS (Glassmorphism style), JavaScript**, and **Axios** for backend API integration.
 
-![screenshot](assets/screenshot.png)
+![screenshot](./public/assets/screenshot.png)
 
 ##  Features
 
